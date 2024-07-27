@@ -37,4 +37,4 @@
 
 
 # Preview
-![This is an image](https://raw.githubusercontent.com/LearnCodingEasy/hossam_rashad_portfolio/main/dist/assets/Previw.png)
+![This is an image](https://raw.githubusercontent.com/LearnCodingEasy/hossam_rashad_portfolio/main/assets/Previw.png)
