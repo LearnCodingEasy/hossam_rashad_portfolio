@@ -33,7 +33,7 @@
 
 
 # View
-[View](https://learncodingeasy.github.io/hossam_rashad_portfolio/dist/)
+[View](https://learncodingeasy.github.io/hossam_rashad_portfolio/)
 
 
 # Preview
